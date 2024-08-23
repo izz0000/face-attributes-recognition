@@ -1,0 +1,65 @@
+site_name: ML Face Attributes Recognition
+site_url: https://izadean.github.io/face-attributes-recognition
+repo_name: face-attributes-recognition
+repo_url: https://github.com/izadean/face-attributes-recognition
+nav:
+  - Overview: index.md
+  - How to use: how-to-use.md
+
+theme:
+  icon:
+    repo: fontawesome/brands/github-alt
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: orange
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: orange
+
+plugins:
+  - social
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/izadean/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/izadean-ahmed/
+
+markdown_extensions:
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/izadean"  target="_blank">Izadean Ahmed</a>
