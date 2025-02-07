@@ -1,2 +1,2 @@
 # Face Attributes Recognition
-Detailed Documentation [here](https://izadean.github.io/face-attributes-recognition)
+Detailed Documentation [here](https://izz0000.github.io/face-attributes-recognition)
