@@ -1,7 +1,7 @@
 site_name: ML Face Attributes Recognition
-site_url: https://izadean.github.io/face-attributes-recognition
+site_url: https://izz0000.github.io/face-attributes-recognition
 repo_name: face-attributes-recognition
-repo_url: https://github.com/izadean/face-attributes-recognition
+repo_url: https://github.com/izz0000/face-attributes-recognition
 nav:
   - Overview: index.md
   - How to use: how-to-use.md
@@ -42,9 +42,9 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/izadean/
+      link: https://github.com/izz0000/
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/izadean-ahmed/
+      link: https://www.linkedin.com/in/izzeddin-ahmad/
 
 markdown_extensions:
   - tables
@@ -62,4 +62,4 @@ markdown_extensions:
   - attr_list
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/izadean"  target="_blank">Izadean Ahmed</a>
+  &copy; 2025 <a href="https://github.com/izz0000"  target="_blank">Izzeddin Ahmad</a>
